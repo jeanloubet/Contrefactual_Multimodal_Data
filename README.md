@@ -16,3 +16,4 @@ Preprocessing :
 Multimodal_Representation :
     compare_multiple_text_feature_extractors : applied multiple text extraction methods in order to select the best one
     multimodal_representation : apply CCA and other methods to merge multimodal data
+    extract_image_ft_from_retrained_VGG: extract image representation and save it
